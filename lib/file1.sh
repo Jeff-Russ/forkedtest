@@ -1,6 +1,8 @@
 #!/bin/bash
 # lib/file1.sh
 
-func1 () {
+
+
+func_file1 () {
 	printf "hello from func1!\n"
 }
